@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+table {
+  width: 600px;
+  min-height: 650px;
+margin: 100px auto;
+  border-collapse: collapse;
+  border: 5px solid black;
+}
+td {
+  border: 12px solid black;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+}
+.black {
+  background-color: black;
+}
+
